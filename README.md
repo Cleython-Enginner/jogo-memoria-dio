@@ -1,4 +1,4 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Projeto realizado no Bootcamp JavaScript Game Developer na Digital Innvation One
 
 Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um jogo da memória com a temática de Super Mario! 
 
